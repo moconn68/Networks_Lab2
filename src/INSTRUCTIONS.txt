@@ -1,0 +1,7 @@
+Instructions to run ECE 4470 Networks Lab 2 by Matthew O'Connell
+To run this program:
+	1. In your terminal, navigate to Networks_Lab2/src
+	2. I have already compiled the file 'main.out' for execution. Type './main.out titan.ece.villanova.edu ${userID}' with your own userID instead of ${userID} to execute the program.
+	3. If this compiled version does not work on your machine, recompile it for your system by running the command 'gcc main.c -o main.out to regenerate the executable. Repeat step 2.
+	4. The output data files from this program's execution is found in 'Networks_Lab2/src/data_files'. All of the received text files will be output here for your viewing convenience.
+	5. If the above steps do not work, please contact me at moconn68@villanova.edu and I will help troubleshoot the program. 
